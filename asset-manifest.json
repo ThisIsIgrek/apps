@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.981f7211.chunk.css",
-    "main.js": "/static/js/main.3bb2a60f.chunk.js",
-    "main.js.map": "/static/js/main.3bb2a60f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7155c908.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7155c908.js.map",
-    "static/css/2.733ba2d0.chunk.css": "/static/css/2.733ba2d0.chunk.css",
-    "static/js/2.ad3e9731.chunk.js": "/static/js/2.ad3e9731.chunk.js",
-    "static/js/2.ad3e9731.chunk.js.map": "/static/js/2.ad3e9731.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.159ff0f75295c98a502cfb564c63ff1e.js": "/precache-manifest.159ff0f75295c98a502cfb564c63ff1e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.733ba2d0.chunk.css.map": "/static/css/2.733ba2d0.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/static/media/persik.4e1ec840.png"
+    "main.css": "./static/css/main.981f7211.chunk.css",
+    "main.js": "./static/js/main.3bb2a60f.chunk.js",
+    "main.js.map": "./static/js/main.3bb2a60f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9853ae7f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9853ae7f.js.map",
+    "static/css/2.733ba2d0.chunk.css": "./static/css/2.733ba2d0.chunk.css",
+    "static/js/2.bf0441ef.chunk.js": "./static/js/2.bf0441ef.chunk.js",
+    "static/js/2.bf0441ef.chunk.js.map": "./static/js/2.bf0441ef.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d7a4269f8bca514d6fcedf05848fc736.js": "./precache-manifest.d7a4269f8bca514d6fcedf05848fc736.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.733ba2d0.chunk.css.map": "./static/css/2.733ba2d0.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "./static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "./static/media/persik.4e1ec840.png"
   }
 }
